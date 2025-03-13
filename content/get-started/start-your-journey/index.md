@@ -1,5 +1,5 @@
 ---
-title: Start your journey
+title: my journey
 intro: 'Learn the basics of {% data variables.product.github %}.'
 versions:
   fpt: '*'
